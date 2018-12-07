@@ -1,10 +1,10 @@
 # Site settings
 title: persevering
-SEOTitle: JeeShao的博客 | persevering
+SEOTitle: Jee的博客 | persevering
 header-img: img/post-bg-rwd.jpg
 email: jee_shao@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, JeeShao的博客, JeeShao,放羊的大锅"
+keyword: "Jee, Jee Blog, Jee的博客, Jee,放羊的大锅"
 url: "https://jeeshao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/JeeShao/JeeShao.github.io.git" # you code repository
