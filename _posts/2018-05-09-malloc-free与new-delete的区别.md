@@ -2,7 +2,7 @@
 layout:     post
 title:      malloc/free与new/delete的区别
 subtitle:   阅读《C++内存管理技术内幕》笔记
-date:       2018-12-09
+date:       2018-05-09
 author:     JeeShao
 header-img: img/tag-bg.jpg
 catalog: true
